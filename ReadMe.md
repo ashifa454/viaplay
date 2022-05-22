@@ -9,12 +9,12 @@ Example URL to test - /film/trailer/arrival-2016
 
 ## Endpoints
 
-* /film/trailer/:movie_name
+* ```/film/trailer/:movie_name```
 * Response ```
 {
     status: http_status_code,
     data: Array<String>
-}
+} ```
 ## Getting Started
 
 ### Dependencies
