@@ -5,7 +5,16 @@ A Simple Service to Fetch trailer from Movie Name.
 ## Description
 
 This project uses the movie db. If you want to run this project please make sure you have a api key.
+Example URL to test - /film/trailer/arrival-2016
 
+## Endpoints
+
+* /film/trailer/:movie_name
+* Response ```
+{
+    status: http_status_code,
+    data: Array<String>
+}
 ## Getting Started
 
 ### Dependencies
