@@ -1,4 +1,4 @@
-# Trailer Fetcher
+# Trailer Fetcher 🍿 🍿
 
 A Simple Service to Fetch trailer from Movie Name.
 
